@@ -1,0 +1,5 @@
+baseURL = 'https://lahoza.net/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'diary'
+publishDir = 'docs'
